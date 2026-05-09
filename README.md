@@ -1,35 +1,51 @@
-# nittoukou
+# 日塗工 RGB → 5原色 AI
 
-日塗工番号またはRGBから、白・黒・赤・黄・青の5原色比率を出す塗装職人向けの調色スタート補助アプリです。
+塗装職人向けの調色スタート比率AI。
 
-このアプリは完全一致の調色配合を出すものではありません。現場で微調整する前提の初期比率を作るためのものです。
+## 目的
 
-## Features
+完全一致調色ではなく、
+調色開始時の方向性を出す。
 
-- 日塗工番号検索
-- RGBから5原色比率へ変換
-- 白・黒・赤・黄・青の合計100%出力
-- Nitto Color RGB Master CSVの検証
-- 全件CSV出力
-- スマホ向けReact UI
+## 入力
 
-## Commands
+- 日塗工番号
+- RGB
+
+## 出力
+
+- 白
+- 黒
+- 赤
+- 黄
+- 青
+
+合計100%
+
+## フロー
+
+```text
+日塗工番号
+↓
+nittoColorMaster.csv
+↓
+RGB取得
+↓
+rgbToFivePrimaries()
+↓
+React UI表示
+```
+
+## コマンド
 
 ```bash
-npm install
-npm run dev
 npm run validate:master
 npm run test
 npm run export:five
+npm run dev
 ```
 
-## Data
+## 重要
 
-マスターCSVは `src/data/nittoColorMaster.csv` です。
-
-```csv
-code,name,r,g,b,source
-N-90,JPMA P N-90,230,230,226,source URL
-```
-
-RGBは画面表示用または近似色データとして扱います。調色配合そのものではありません。
+RGBは画面表示用近似値。
+実塗料配合ではない。
