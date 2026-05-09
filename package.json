@@ -1,0 +1,23 @@
+{
+  "name": "rgb-5-primary-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test",
+    "validate:colors": "node scripts/validateNittoColorMaster.mjs",
+    "validate:master": "node scripts/validateNittoColorMaster.mjs",
+    "export:five": "node scripts/exportFivePrimaries.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "lucide-react": "^0.468.0",
+    "vite": "^7.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {}
+}
