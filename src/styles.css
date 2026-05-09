@@ -1,0 +1,97 @@
+:root {
+  color: #18201f;
+  background: #f4f1ea;
+  font-family: Inter, "Noto Sans JP", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+
+.appShell {
+  min-height: 100vh;
+  padding: 18px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background: linear-gradient(180deg, rgba(255,255,255,.68), rgba(255,255,255,0)), #f4f1ea;
+}
+
+.toolPanel {
+  width: min(100%, 440px);
+  padding: 22px;
+  border: 1px solid #d8d2c6;
+  border-radius: 8px;
+  background: #fffdf8;
+  box-shadow: 0 18px 42px rgba(34, 29, 20, .12);
+}
+
+.headerBlock { margin-bottom: 22px; }
+.eyebrow { margin: 0 0 8px; color: #4f6f64; font-size: .82rem; font-weight: 700; }
+h1 { margin: 0; font-size: 1.55rem; line-height: 1.25; }
+.inputLabel { display: block; margin-bottom: 8px; font-size: .95rem; font-weight: 700; }
+
+.inputRow {
+  display: grid;
+  grid-template-columns: 1fr 46px;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+input {
+  width: 100%;
+  min-height: 46px;
+  padding: 0 14px;
+  border: 1px solid #b9b2a7;
+  border-radius: 8px;
+  background: #fff;
+  color: #18201f;
+  outline: none;
+}
+
+input:focus { border-color: #2f6f64; box-shadow: 0 0 0 3px rgba(47,111,100,.18); }
+button { min-height: 46px; border: 0; border-radius: 8px; cursor: pointer; font-weight: 700; }
+.iconButton { display: grid; place-items: center; background: #ebe7dd; color: #2d3330; }
+.primaryButton { width: 100%; background: #275e55; color: #fff; }
+.errorText { margin: 12px 0 0; color: #b42318; font-size: .92rem; }
+.resultBlock { margin-top: 18px; }
+
+.resultSummary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.resultSummary div {
+  min-height: 64px;
+  padding: 10px 12px;
+  border: 1px solid #ded8cd;
+  border-radius: 8px;
+  background: #f9f6ee;
+}
+
+.resultSummary span { display: block; margin-bottom: 5px; color: #6c665d; font-size: .78rem; font-weight: 700; }
+.resultSummary strong { font-size: 1.12rem; overflow-wrap: anywhere; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border: 1px solid #ded8cd;
+  border-radius: 8px;
+  background: #fff;
+}
+
+th, td { padding: 12px; border-bottom: 1px solid #eee8dd; text-align: left; }
+th { background: #ece7dc; color: #3c433f; font-size: .84rem; }
+tr:last-child td { border-bottom: 0; }
+.ratioCell { display: grid; grid-template-columns: 48px 1fr; gap: 10px; align-items: center; }
+meter { width: 100%; height: 12px; }
+
+@media (max-width: 380px) {
+  .toolPanel { padding: 18px; }
+  .resultSummary { grid-template-columns: 1fr; }
+}
