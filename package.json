@@ -10,7 +10,10 @@
     "test": "node --test",
     "validate:colors": "node scripts/validateNittoColorMaster.mjs",
     "validate:master": "node scripts/validateNittoColorMaster.mjs",
-    "export:five": "node scripts/exportFivePrimaries.mjs"
+    "export:five": "node scripts/exportFivePrimaries.mjs",
+    "fetch:jpma": "node scripts/fetch-jpma.mjs",
+    "fetch:jpma:100": "node scripts/fetch-jpma.mjs --limit=100",
+    "fetch:jpma:test": "node scripts/fetch-jpma-test.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^5.0.0",
