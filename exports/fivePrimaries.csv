@@ -1,151 +1,511 @@
-code,name,r,g,b,白,黒,赤,黄,青,source
-N-95,JPMA P N-95,242,241,235,92,0,1,5,2,QTCColor https://www.qtccolor.com/secaiku/color/120622
-N-93,JPMA P N-93,238,236,231,91,0,2,5,2,QTCColor https://www.qtccolor.com/secaiku/color/120621
-N-90,JPMA P N-90,230,230,226,90,10,0,0,0,QTCColor https://www.qtccolor.com/secaiku/color/120594
-N-87,JPMA P N-87,222,222,218,85,2,0,10,3,QTCColor https://www.qtccolor.com/secaiku/color/120573
-N-85,JPMA P N-85,216,216,212,83,2,0,12,3,QTCColor https://www.qtccolor.com/secaiku/color/120550
-N-82,JPMA P N-82,207,208,204,80,3,0,12,5,QTCColor https://www.qtccolor.com/secaiku/color/120532
-N-80,JPMA P N-80,200,202,198,78,4,0,12,6,QTCColor https://www.qtccolor.com/secaiku/color/120493
-N-77,JPMA P N-77,187,188,185,73,7,0,14,6,QTCColor https://www.qtccolor.com/secaiku/color/120445
-N-75,JPMA P N-75,181,182,179,70,8,0,15,7,QTCColor https://www.qtccolor.com/secaiku/color/120423
-N-72,JPMA P N-72,175,176,172,67,10,0,17,6,QTCColor https://www.qtccolor.com/secaiku/color/120418
-N-70,JPMA P N-70,170,171,168,66,11,0,16,7,QTCColor https://www.qtccolor.com/secaiku/color/120334
-N-65,JPMA P N-65,153,156,153,60,15,0,12,13,QTCColor https://www.qtccolor.com/secaiku/color/120310
-N-60,JPMA P N-60,140,141,138,54,20,0,19,7,QTCColor https://www.qtccolor.com/secaiku/color/120244
-N-55,JPMA P N-55,127,128,125,49,25,0,19,7,QTCColor https://www.qtccolor.com/secaiku/color/120233
-N-50,JPMA P N-50,116,118,115,45,29,0,16,10,QTCColor https://www.qtccolor.com/secaiku/color/120167
-N-45,JPMA P N-45,104,105,103,40,35,0,17,8,QTCColor https://www.qtccolor.com/secaiku/color/120154
-N-40,JPMA P N-40,91,92,90,35,41,0,17,7,QTCColor https://www.qtccolor.com/secaiku/color/120103
-N-35,JPMA P N-35,80,82,81,31,46,0,11,12,QTCColor https://www.qtccolor.com/secaiku/color/120102
-N-30,JPMA P N-30,68,69,67,26,53,0,15,6,QTCColor https://www.qtccolor.com/secaiku/color/120082
-N-25,JPMA P N-25,57,58,56,22,60,0,13,5,QTCColor https://www.qtccolor.com/secaiku/color/120057
-N-15,JPMA P N-15,31,33,33,12,76,0,4,8,QTCColor https://www.qtccolor.com/secaiku/color/120043
-N-10,JPMA P N-10,17,17,17,7,93,0,0,0,QTCColor https://www.qtccolor.com/secaiku/color/120036
-22-90A,JPMA P 22-90A,237,226,207,81,0,5,10,4,QTCColor https://www.qtccolor.com/secaiku/color/120593
-22-90B,JPMA P 22-90B,238,224,202,79,0,6,11,4,QTCColor https://www.qtccolor.com/secaiku/color/120594
-22-90C,JPMA P 22-90C,239,223,198,77,0,7,12,4,QTCColor https://www.qtccolor.com/secaiku/color/120595
-22-90D,JPMA P 22-90D,241,225,192,75,0,6,14,5,QTCColor https://www.qtccolor.com/secaiku/color/120583
-22-85A,JPMA P 22-85A,225,215,198,77,2,6,11,4,QTCColor https://www.qtccolor.com/secaiku/color/120551
-22-80A,JPMA P 22-80A,210,199,180,70,3,8,14,5,QTCColor https://www.qtccolor.com/secaiku/color/120495
-22-80B,JPMA P 22-80B,209,195,173,68,3,9,15,5,QTCColor https://www.qtccolor.com/secaiku/color/120478
-22-80C,JPMA P 22-80C,209,193,166,64,3,10,17,6,QTCColor https://www.qtccolor.com/secaiku/color/120479
-22-80D,JPMA P 22-80D,208,190,157,61,3,10,20,6,QTCColor https://www.qtccolor.com/secaiku/color/120475
-22-80F,JPMA P 22-80F,209,187,145,56,3,12,23,6,QTCColor https://www.qtccolor.com/secaiku/color/120481
-22-75A,JPMA P 22-75A,196,185,167,65,5,9,16,5,QTCColor https://www.qtccolor.com/secaiku/color/120424
-22-75B,JPMA P 22-75B,195,181,158,61,6,10,17,6,QTCColor https://www.qtccolor.com/secaiku/color/120429
-22-75D,JPMA P 22-75D,194,176,143,56,6,11,21,6,QTCColor https://www.qtccolor.com/secaiku/color/120427
-22-75F,JPMA P 22-75F,193,173,131,51,6,12,25,6,QTCColor https://www.qtccolor.com/secaiku/color/120431
-65-90D,JPMA P 65-90D,203,232,231,79,1,0,7,13,QTCColor https://www.qtccolor.com/secaiku/color/120580
-67-70L,JPMA P 67-70L,76,178,219,29,2,0,10,59,QTCColor https://www.qtccolor.com/secaiku/color/120409
-69-30P,JPMA P 69-30P,0,82,114,0,31,0,0,69,QTCColor https://www.qtccolor.com/secaiku/color/120101
-69-40D,JPMA P 69-40D,77,95,104,30,35,0,5,30,QTCColor https://www.qtccolor.com/secaiku/color/120127
-69-40T,JPMA P 69-40T,0,95,170,0,11,0,0,89,QTCColor https://www.qtccolor.com/secaiku/color/120119
-69-50D,JPMA P 69-50D,88,116,148,34,18,0,5,43,QTCColor https://www.qtccolor.com/secaiku/color/120168
-69-50H,JPMA P 69-50H,32,121,181,12,8,0,5,75,QTCColor https://www.qtccolor.com/secaiku/color/120178
-69-50T,JPMA P 69-50T,0,119,197,0,5,0,0,95,QTCColor https://www.qtccolor.com/secaiku/color/120171
-69-60L,JPMA P 69-60L,32,148,212,12,3,0,5,80,QTCColor https://www.qtccolor.com/secaiku/color/120250
-69-70F,JPMA P 69-70F,123,171,201,48,4,0,7,41,QTCColor https://www.qtccolor.com/secaiku/color/120339
-17-40D,JPMA P 17-40D,106,92,71,28,34,15,20,3,QTCColor https://www.qtccolor.com/secaiku/color/120141
-17-50F,JPMA P 17-50F,134,115,82,32,23,15,26,4,QTCColor https://www.qtccolor.com/secaiku/color/120162
-17-50L,JPMA P 17-50L,144,114,62,24,19,20,33,4,QTCColor https://www.qtccolor.com/secaiku/color/120185
-05-90A,JPMA P 05-90A,233,229,223,87,1,3,6,3,QTCColor https://www.qtccolor.com/secaiku/color/120602
-05-80A,JPMA P 05-80A,206,201,197,77,4,8,7,4,QTCColor https://www.qtccolor.com/secaiku/color/120512
-05-80L,JPMA P 05-80L,252,178,174,67,0,23,4,6,QTCColor https://www.qtccolor.com/secaiku/color/120453
-05-85B,JPMA P 05-85B,223,213,209,82,1,9,5,3,QTCColor https://www.qtccolor.com/secaiku/color/120553
-05-90B,JPMA P 05-90B,240,230,224,88,0,5,4,3,QTCColor https://www.qtccolor.com/secaiku/color/120617
-19-85B,JPMA P 19-85B,227,215,201,79,1,7,9,4,QTCColor https://www.qtccolor.com/secaiku/color/120564
-19-90A,JPMA P 19-90A,236,231,222,87,0,3,7,3,QTCColor https://www.qtccolor.com/secaiku/color/120615
-19-90B,JPMA P 19-90B,237,226,212,83,1,5,8,3,QTCColor https://www.qtccolor.com/secaiku/color/120590
-22-65B,JPMA P 22-65B,167,157,143,56,12,11,16,5,QTCColor https://www.qtccolor.com/secaiku/color/120312
-22-65C,JPMA P 22-65C,170,157,137,53,11,12,19,5,QTCColor https://www.qtccolor.com/secaiku/color/120315
-22-70A,JPMA P 22-70A,181,175,167,65,8,9,13,5,QTCColor https://www.qtccolor.com/secaiku/color/120410
-22-70B,JPMA P 22-70B,180,171,156,61,9,9,16,5,QTCColor https://www.qtccolor.com/secaiku/color/120354
-22-70C,JPMA P 22-70C,187,173,153,60,7,11,17,5,QTCColor https://www.qtccolor.com/secaiku/color/120397
-22-70D,JPMA P 22-70D,189,172,146,57,6,12,19,6,QTCColor https://www.qtccolor.com/secaiku/color/120392
-22-70H,JPMA P 22-70H,202,167,121,47,4,18,25,6,QTCColor https://www.qtccolor.com/secaiku/color/120361
-22-70L,JPMA P 22-70L,213,165,97,37,3,22,32,6,QTCColor https://www.qtccolor.com/secaiku/color/120377
-25-30B,JPMA P 25-30B,62,53,38,15,57,11,16,1,QTCColor https://www.qtccolor.com/secaiku/color/120056
-25-50D,JPMA P 25-50D,132,117,92,36,23,14,23,4,QTCColor https://www.qtccolor.com/secaiku/color/120188
-25-60D,JPMA P 25-60D,159,147,123,48,14,11,22,5,QTCColor https://www.qtccolor.com/secaiku/color/120299
-25-70D,JPMA P 25-70D,185,172,145,56,7,10,21,6,QTCColor https://www.qtccolor.com/secaiku/color/120374
-25-80H,JPMA P 25-80H,222,197,144,55,2,11,25,7,QTCColor https://www.qtccolor.com/secaiku/color/120482
-25-85V,JPMA P 25-85V,255,202,0,0,0,21,79,0,QTCColor https://www.qtccolor.com/secaiku/color/120533
-25-90C,JPMA P 25-90C,237,225,200,78,1,5,12,4,QTCColor https://www.qtccolor.com/secaiku/color/120578
-25-90D,JPMA P 25-90D,241,225,192,75,0,6,14,5,QTCColor https://www.qtccolor.com/secaiku/color/120583
-65-20D,JPMA P 65-20D,13,42,46,5,67,0,2,26,QTCColor https://www.qtccolor.com/secaiku/color/120044
-65-20H,JPMA P 65-20H,0,58,70,0,53,0,0,47,QTCColor https://www.qtccolor.com/secaiku/color/120054
-65-30D,JPMA P 65-30D,46,71,75,18,50,0,5,27,QTCColor https://www.qtccolor.com/secaiku/color/120087
-65-40H,JPMA P 65-40H,45,106,116,17,30,0,8,45,QTCColor https://www.qtccolor.com/secaiku/color/120151
-65-50A,JPMA P 65-50A,114,119,118,45,28,0,12,15,QTCColor https://www.qtccolor.com/secaiku/color/120176
-65-50B,JPMA P 65-50B,112,124,125,44,26,0,8,22,QTCColor https://www.qtccolor.com/secaiku/color/120227
-65-50D,JPMA P 65-50D,99,126,131,38,24,0,8,30,QTCColor https://www.qtccolor.com/secaiku/color/120224
-19-80F,JPMA P 19-80F,228,197,164,64,1,13,16,6,QTCColor https://www.qtccolor.com/secaiku/color/120514
-19-80L,JPMA P 19-80L,244,187,129,49,0,21,23,7,QTCColor https://www.qtccolor.com/secaiku/color/120459
-22-65A,JPMA P 22-65A,166,162,154,60,12,8,15,5,QTCColor https://www.qtccolor.com/secaiku/color/120323
-25-60B,JPMA P 25-60B,152,145,131,51,16,9,19,5,QTCColor https://www.qtccolor.com/secaiku/color/120267
-25-65A,JPMA P 25-65A,165,161,152,59,13,7,16,5,QTCColor https://www.qtccolor.com/secaiku/color/120320
-25-65B,JPMA P 25-65B,165,158,143,56,12,9,18,5,QTCColor https://www.qtccolor.com/secaiku/color/120314
-25-70A,JPMA P 25-70A,177,173,164,64,9,7,15,5,QTCColor https://www.qtccolor.com/secaiku/color/120376
-25-70B,JPMA P 25-70B,178,170,154,60,9,9,17,5,QTCColor https://www.qtccolor.com/secaiku/color/120342
-25-70L,JPMA P 25-70L,201,166,89,34,5,17,38,6,QTCColor https://www.qtccolor.com/secaiku/color/120338
-25-85A,JPMA P 25-85A,217,212,200,78,2,5,11,4,QTCColor https://www.qtccolor.com/secaiku/color/120537
-25-85B,JPMA P 25-85B,221,213,194,76,2,5,13,4,QTCColor https://www.qtccolor.com/secaiku/color/120539
-25-90A,JPMA P 25-90A,232,228,215,84,1,3,9,3,QTCColor https://www.qtccolor.com/secaiku/color/120596
-25-90B,JPMA P 25-90B,235,227,208,81,1,4,10,4,QTCColor https://www.qtccolor.com/secaiku/color/120592
-65-70A,JPMA P 65-70A,165,173,172,65,10,0,10,15,QTCColor https://www.qtccolor.com/secaiku/color/120348
-65-70B,JPMA P 65-70B,163,179,180,64,9,0,8,19,QTCColor https://www.qtccolor.com/secaiku/color/120412
-05-70A,JPMA P 05-70A,179,172,169,66,9,14,7,4,QTCColor https://www.qtccolor.com/secaiku/color/120378
-05-75B,JPMA P 05-75B,198,186,182,71,5,14,6,4,QTCColor https://www.qtccolor.com/secaiku/color/120436
-07-20H,JPMA P 07-20H,70,26,25,10,53,35,1,1,QTCColor https://www.qtccolor.com/secaiku/color/120046
-07-30L,JPMA P 07-30L,113,42,36,14,31,48,5,2,QTCColor https://www.qtccolor.com/secaiku/color/120077
-07-40P,JPMA P 07-40P,149,61,55,21,17,52,6,4,QTCColor https://www.qtccolor.com/secaiku/color/120105
-19-65A,JPMA P 19-65A,168,161,154,60,12,11,12,5,QTCColor https://www.qtccolor.com/secaiku/color/120322
-19-65B,JPMA P 19-65B,172,160,147,57,11,13,14,5,QTCColor https://www.qtccolor.com/secaiku/color/120321
-19-65C,JPMA P 19-65C,174,158,141,55,10,14,16,5,QTCColor https://www.qtccolor.com/secaiku/color/120319
-19-70A,JPMA P 19-70A,178,172,164,64,9,9,13,5,QTCColor https://www.qtccolor.com/secaiku/color/120364
-19-70C,JPMA P 19-70C,184,168,152,59,8,13,15,5,QTCColor https://www.qtccolor.com/secaiku/color/120339
-19-70D,JPMA P 19-70D,192,172,151,59,6,14,16,5,QTCColor https://www.qtccolor.com/secaiku/color/120401
-19-70F,JPMA P 19-70F,197,165,134,52,5,18,19,6,QTCColor https://www.qtccolor.com/secaiku/color/120340
-19-70H,JPMA P 19-70H,205,163,124,48,4,21,21,6,QTCColor https://www.qtccolor.com/secaiku/color/120344
-19-70L,JPMA P 19-70L,218,161,101,39,2,25,27,7,QTCColor https://www.qtccolor.com/secaiku/color/120356
-19-75A,JPMA P 19-75A,196,189,181,71,5,9,11,4,QTCColor https://www.qtccolor.com/secaiku/color/120442
-19-75D,JPMA P 19-75D,205,184,161,62,4,13,15,6,QTCColor https://www.qtccolor.com/secaiku/color/120430
-19-75L,JPMA P 19-75L,227,173,122,47,1,22,23,7,QTCColor https://www.qtccolor.com/secaiku/color/120421
-19-80A,JPMA P 19-80A,209,202,194,76,3,8,9,4,QTCColor https://www.qtccolor.com/secaiku/color/120521
-15-50B,JPMA P 15-50B,131,118,112,44,24,19,9,4,QTCColor https://www.qtccolor.com/secaiku/color/120209
-15-60A,JPMA P 15-60A,155,148,142,56,15,13,12,4,QTCColor https://www.qtccolor.com/secaiku/color/120307
-15-60B,JPMA P 15-60B,158,144,136,53,14,17,11,5,QTCColor https://www.qtccolor.com/secaiku/color/120282
-15-60D,JPMA P 15-60D,167,144,131,51,12,20,12,5,QTCColor https://www.qtccolor.com/secaiku/color/120304
-15-60F,JPMA P 15-60F,173,137,117,45,10,24,15,6,QTCColor https://www.qtccolor.com/secaiku/color/120252
-15-60V,JPMA P 15-60V,230,115,24,9,1,48,39,3,QTCColor https://www.qtccolor.com/secaiku/color/120285
-15-65A,JPMA P 15-65A,167,159,153,60,12,13,11,4,QTCColor https://www.qtccolor.com/secaiku/color/120316
-15-65B,JPMA P 15-65B,171,158,151,59,11,15,10,5,QTCColor https://www.qtccolor.com/secaiku/color/120318
-15-65X,JPMA P 15-65X,250,120,0,0,0,52,48,0,QTCColor https://www.qtccolor.com/secaiku/color/120311
-15-70A,JPMA P 15-70A,182,174,168,66,8,12,10,4,QTCColor https://www.qtccolor.com/secaiku/color/120404
-15-70B,JPMA P 15-70B,184,171,163,63,8,14,10,5,QTCColor https://www.qtccolor.com/secaiku/color/120379
-15-70D,JPMA P 15-70D,193,170,156,61,6,16,12,5,QTCColor https://www.qtccolor.com/secaiku/color/120395
-15-75A,JPMA P 15-75A,195,188,181,71,6,9,10,4,QTCColor https://www.qtccolor.com/secaiku/color/120440
-15-75B,JPMA P 15-75B,198,185,176,69,5,12,9,5,QTCColor https://www.qtccolor.com/secaiku/color/120431
-15-80A,JPMA P 15-80A,210,202,195,76,3,8,9,4,QTCColor https://www.qtccolor.com/secaiku/color/120522
-15-80B,JPMA P 15-80B,210,197,189,74,3,11,8,4,QTCColor https://www.qtccolor.com/secaiku/color/120477
-15-80D,JPMA P 15-80D,220,196,181,70,2,13,10,5,QTCColor https://www.qtccolor.com/secaiku/color/120491
-15-40P,JPMA P 15-40P,148,76,20,8,17,42,31,2,QTCColor https://www.qtccolor.com/secaiku/color/120145
-17-30F,JPMA P 17-30F,93,60,37,14,41,26,17,2,QTCColor https://www.qtccolor.com/secaiku/color/120093
-29-60D,JPMA P 29-60D,154,148,122,48,16,6,25,5,QTCColor https://www.qtccolor.com/secaiku/color/120296
-29-60H,JPMA P 29-60H,157,146,89,34,15,8,38,5,QTCColor https://www.qtccolor.com/secaiku/color/120264
-29-40H,JPMA P 29-40H,103,93,46,18,36,8,35,3,QTCColor https://www.qtccolor.com/secaiku/color/120133
-27-90B,JPMA P 27-90B,232,227,208,81,1,3,11,4,QTCColor https://www.qtccolor.com/secaiku/color/120587
-27-90P,JPMA P 27-90P,254,225,103,39,0,10,44,7,QTCColor https://www.qtccolor.com/secaiku/color/120576
-72-50L,JPMA P 72-50L,68,128,160,26,14,0,7,53,QTCColor https://www.qtccolor.com/secaiku/color/120223
-72-40T,JPMA P 72-40T,0,107,159,0,14,0,0,86,QTCColor https://www.qtccolor.com/secaiku/color/120153
-72-45T,JPMA P 72-45T,0,119,171,0,11,0,0,89,QTCColor https://www.qtccolor.com/secaiku/color/120159
-72-70D,JPMA P 72-70D,162,178,186,63,7,0,6,24,QTCColor https://www.qtccolor.com/secaiku/color/120405
-72-80D,JPMA P 72-80D,188,203,210,73,3,0,5,19,QTCColor https://www.qtccolor.com/secaiku/color/120492
-72-50P,JPMA P 72-50P,36,129,171,14,11,0,6,69,QTCColor https://www.qtccolor.com/secaiku/color/120215
-75-20L,JPMA P 75-20L,0,53,81,0,47,0,0,53,QTCColor https://www.qtccolor.com/secaiku/color/120053
-75-20D,JPMA P 75-20D,19,37,51,7,64,0,1,28,QTCColor https://www.qtccolor.com/secaiku/color/120040
-72-30H,JPMA P 72-30H,21,72,95,8,39,0,3,50,QTCColor https://www.qtccolor.com/secaiku/color/120090
-69-80H,JPMA P 69-80H,163,206,220,63,2,0,8,27,QTCColor https://www.qtccolor.com/secaiku/color/120472
-69-80D,JPMA P 69-80D,189,208,213,74,2,0,6,18,QTCColor https://www.qtccolor.com/secaiku/color/120529
-69-70P,JPMA P 69-70P,83,189,222,31,2,0,11,56,QTCColor https://www.qtccolor.com/secaiku/color/120414
-69-70L,JPMA P 69-70L,106,183,210,41,3,0,10,46,QTCColor https://www.qtccolor.com/secaiku/color/120363
+﻿code,name,r,g,b,白,黒,赤,黄,青,source
+05-30D,,84,57,56,22,45,29,2,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=30&c=D
+05-30T,,139,0,25,0,21,79,0,0,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=30&c=T
+05-40D,,112,85,84,33,31,30,3,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=40&c=D
+05-40F,,125,85,85,33,26,35,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=40&c=F
+05-40V,,178,27,46,10,9,77,1,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=40&c=V
+05-40X,,183,0,36,0,8,92,0,0,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=40&c=X
+05-50B,,130,116,114,44,24,23,5,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=50&c=B
+05-50D,,139,114,113,44,21,28,3,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=50&c=D
+05-50F,,146,112,110,43,18,30,4,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=50&c=F
+05-50V,,202,65,74,25,4,63,3,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=50&c=V
+05-60B,,155,144,142,56,15,20,5,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=60&c=B
+05-60D,,162,139,137,54,13,24,4,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=60&c=D
+05-60F,,171,137,135,53,11,27,4,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=60&c=F
+05-60L,,197,124,121,47,5,37,5,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=60&c=L
+05-70A,,179,172,169,66,9,14,7,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=70&c=A
+05-70B,,183,171,168,66,8,16,6,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=70&c=B
+05-70D,,190,167,164,64,6,20,5,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=70&c=D
+05-70L,,224,152,150,58,2,30,4,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=70&c=L
+05-75A,,194,187,184,72,6,12,6,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=75&c=A
+05-75B,,198,186,182,71,5,14,6,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=75&c=B
+05-80A,,206,201,197,77,4,8,7,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=80&c=A
+05-80B,,211,200,196,77,3,11,5,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=80&c=B
+05-80D,,213,194,190,74,3,14,5,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=80&c=D
+05-80L,,252,178,174,67,0,23,4,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=80&c=L
+05-85A,,219,214,210,82,2,7,6,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=85&c=A
+05-85B,,223,213,209,82,1,9,5,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=85&c=B
+05-90A,,233,229,223,87,1,3,6,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=90&c=A
+05-90B,,240,230,224,88,0,5,4,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=90&c=B
+05-90D,,247,220,216,84,0,10,3,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=05&v=90&c=D
+07-20H,,70,26,25,10,53,35,1,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=20&c=H
+07-30F,,99,55,51,20,37,36,4,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=30&c=F
+07-30L,,113,42,36,14,31,48,5,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=30&c=L
+07-40P,,149,61,55,21,17,52,6,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=40&c=P
+07-40V,,173,36,23,9,10,71,8,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=40&c=V
+07-40X,,185,0,25,0,8,92,0,0,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=40&c=X
+07-50L,,170,97,89,34,11,42,7,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=50&c=L
+07-50V,,195,31,13,5,6,79,9,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=50&c=V
+07-60H,,181,130,125,48,8,32,6,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=60&c=H
+07-60T,,224,106,93,36,1,48,8,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=60&c=T
+07-70F,,196,159,151,59,5,23,7,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=70&c=F
+07-70L,,227,152,142,55,1,31,7,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=70&c=L
+07-80H,,235,185,177,69,0,20,6,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=80&c=H
+07-90D,,236,219,207,81,0,8,7,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=07&v=90&c=D
+09-20D,,61,30,25,10,58,27,4,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=20&c=D
+09-30H,,102,54,42,16,36,36,9,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=30&c=H
+09-40H,,128,78,67,26,25,36,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=40&c=H
+09-60B,,156,142,138,54,15,19,7,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=60&c=B
+09-60D,,165,139,132,51,13,23,8,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=60&c=D
+09-60H,,182,131,116,45,8,30,11,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=60&c=H
+09-70D,,188,162,154,60,7,20,8,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=70&c=D
+09-70H,,210,161,149,58,3,25,8,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=70&c=H
+09-80D,,218,196,191,75,2,14,5,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=80&c=D
+09-80F,,229,191,179,70,1,17,7,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=80&c=F
+09-90D,,247,221,214,84,0,9,4,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=09&v=90&c=D
+12-30H,,106,55,39,15,34,37,12,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=12&v=30&c=H
+12-60D,,163,136,120,47,13,21,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=12&v=60&c=D
+12-70D,,193,166,155,60,6,19,10,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=12&v=70&c=D
+12-70L,,222,149,122,47,1,31,14,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=12&v=70&c=L
+12-80H,,239,187,166,64,1,19,10,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=12&v=80&c=H
+12-90D,,247,222,212,83,0,9,5,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=12&v=90&c=D
+15-40D,,114,87,75,29,31,25,12,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=40&c=D
+15-40H,,126,81,58,22,26,32,16,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=40&c=H
+15-40P,,148,76,20,8,17,42,31,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=40&c=P
+15-50B,,131,118,112,44,24,19,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=50&c=B
+15-50D,,141,115,102,40,20,23,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=50&c=D
+15-60A,,155,148,142,56,15,13,12,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=60&c=A
+15-60B,,158,144,136,53,14,17,11,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=60&c=B
+15-60D,,167,144,131,51,12,20,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=60&c=D
+15-60F,,173,137,117,45,10,24,15,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=60&c=F
+15-60V,,230,115,24,9,1,48,39,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=60&c=V
+15-65A,,167,159,153,60,12,13,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=65&c=A
+15-65B,,171,158,151,59,11,15,10,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=65&c=B
+15-65X,,250,120,0,0,0,52,48,0,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=65&c=X
+15-70A,,182,174,168,66,8,12,10,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=70&c=A
+15-70B,,184,171,163,63,8,14,10,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=70&c=B
+15-70D,,193,170,156,61,6,16,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=70&c=D
+15-70H,,209,163,137,53,3,23,15,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=70&c=H
+15-75A,,195,188,181,71,6,9,10,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=75&c=A
+15-75B,,198,185,176,69,5,12,9,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=75&c=B
+15-80A,,210,202,195,76,3,8,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=80&c=A
+15-80B,,210,197,189,74,3,11,8,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=80&c=B
+15-80D,,220,196,181,70,2,13,10,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=80&c=D
+15-85A,,222,215,208,81,2,6,7,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=85&c=A
+15-85B,,226,214,204,80,1,8,7,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=85&c=B
+15-90A,,236,229,222,87,0,5,5,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=90&c=A
+15-90B,,235,225,214,84,1,5,7,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=90&c=B
+15-90D,,250,226,211,82,0,8,6,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=15&v=90&c=D
+17-30F,,93,60,37,14,41,26,17,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=30&c=F
+17-40D,,115,89,75,29,30,24,13,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=40&c=D
+17-40H,,127,83,52,20,25,30,21,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=40&c=H
+17-50D,,133,111,99,39,23,22,12,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=50&c=D
+17-50F,,142,108,87,34,20,25,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=50&c=F
+17-50L,,164,105,59,23,13,34,26,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=50&c=L
+17-60B,,158,144,134,52,15,16,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=60&c=B
+17-60D,,161,139,124,48,14,19,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=60&c=D
+17-60H,,181,139,108,42,8,25,19,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=60&c=H
+17-70B,,184,171,161,63,8,13,11,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=70&c=B
+17-70D,,196,171,153,60,5,16,13,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=70&c=D
+17-70H,,207,164,132,51,4,21,18,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=70&c=H
+17-70L,,222,157,111,43,2,27,21,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=70&c=L
+17-80A,,210,203,195,76,3,8,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=80&c=A
+17-80B,,211,199,187,73,3,9,10,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=80&c=B
+17-80C,,215,196,180,70,3,11,11,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=80&c=C
+17-80D,,218,192,172,67,2,14,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=80&c=D
+17-80H,,234,191,156,60,1,17,16,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=80&c=H
+17-90A,,237,231,223,87,0,4,6,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=90&c=A
+17-90B,,240,229,217,85,0,5,7,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=90&c=B
+17-90D,,249,225,204,79,0,8,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=17&v=90&c=D
+19-40D,,109,88,72,28,33,21,15,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=40&c=D
+19-40H,,123,83,43,17,27,27,26,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=40&c=H
+19-50D,,139,117,98,38,21,19,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=50&c=D
+19-60B,,158,146,134,52,14,14,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=60&c=B
+19-60D,,165,143,122,48,13,17,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=60&c=D
+19-60H,,179,141,106,41,9,22,22,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=60&c=H
+19-65A,,168,161,154,60,12,11,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=65&c=A
+19-65B,,172,160,147,57,11,13,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=65&c=B
+19-65C,,174,158,141,55,10,14,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=65&c=C
+19-70A,,178,172,164,64,9,9,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=A
+19-70B,,187,174,161,63,7,12,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=B
+19-70C,,184,168,152,59,8,13,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=C
+19-70D,,192,172,151,59,6,14,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=D
+19-70F,,197,165,134,52,5,18,19,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=F
+19-70H,,205,163,124,48,4,21,21,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=H
+19-70L,,218,161,101,39,2,25,27,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=70&c=L
+19-75A,,196,189,181,71,5,9,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=75&c=A
+19-75B,,200,189,176,69,5,9,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=75&c=B
+19-75C,,200,184,168,65,5,12,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=75&c=C
+19-75D,,205,184,161,62,4,13,15,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=75&c=D
+19-75L,,227,173,122,47,1,22,23,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=75&c=L
+19-80A,,209,202,194,76,3,8,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=80&c=A
+19-80B,,212,201,188,73,3,8,11,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=80&c=B
+19-80C,,214,199,181,71,3,9,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=80&c=C
+19-80D,,222,201,176,68,2,11,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=80&c=D
+19-80F,,228,197,164,64,1,13,16,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=80&c=F
+19-80L,,244,187,129,49,0,21,23,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=80&c=L
+19-85A,,221,213,203,79,2,6,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=85&c=A
+19-85B,,227,215,201,79,1,7,9,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=85&c=B
+19-85C,,228,212,193,75,1,8,11,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=85&c=C
+19-90A,,236,231,222,87,0,3,7,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=90&c=A
+19-90B,,237,226,212,83,1,5,8,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=90&c=B
+19-90D,,248,226,199,77,0,8,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=19&v=90&c=D
+22-40D,,106,90,73,29,34,17,17,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=40&c=D
+22-40H,,118,88,47,18,29,22,28,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=40&c=H
+22-50D,,134,115,94,37,23,17,19,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=50&c=D
+22-60B,,155,145,133,52,15,13,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=60&c=B
+22-60D,,159,142,119,46,14,15,20,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=60&c=D
+22-65A,,166,162,154,60,12,8,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=65&c=A
+22-65B,,167,157,143,56,12,11,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=65&c=B
+22-65C,,170,157,137,53,11,12,19,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=65&c=C
+22-70A,,181,175,167,65,8,9,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=70&c=A
+22-70B,,180,171,156,61,9,9,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=70&c=B
+22-70C,,187,173,153,60,7,11,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=70&c=C
+22-70D,,189,172,146,57,6,12,19,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=70&c=D
+22-70H,,202,167,121,47,4,18,25,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=70&c=H
+22-70L,,213,165,97,37,3,22,32,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=70&c=L
+22-75A,,196,192,183,72,5,6,13,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=75&c=A
+22-75B,,196,186,171,67,5,9,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=75&c=B
+22-75C,,201,187,165,64,5,10,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=75&c=C
+22-75D,,203,186,161,63,4,11,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=75&c=D
+22-75F,,210,185,148,58,3,13,20,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=75&c=F
+22-80A,,209,204,196,77,3,6,10,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=80&c=A
+22-80B,,209,198,183,72,3,8,12,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=80&c=B
+22-80C,,210,197,177,69,3,9,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=80&c=C
+22-80D,,215,197,169,66,2,10,16,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=80&c=D
+22-80F,,221,197,159,62,2,11,19,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=80&c=F
+22-80H,,228,195,149,58,1,14,21,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=80&c=H
+22-85A,,222,218,210,82,2,4,9,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=85&c=A
+22-85B,,223,215,199,78,2,5,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=85&c=B
+22-85C,,224,210,188,73,1,8,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=85&c=C
+22-90A,,234,230,220,86,1,3,7,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=90&c=A
+22-90B,,235,225,207,81,0,5,10,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=90&c=B
+22-90C,,239,225,202,79,0,6,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=90&c=C
+22-90D,,242,224,194,75,0,7,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=22&v=90&c=D
+25-30B,,62,53,38,15,57,11,16,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=30&c=B
+25-40D,,104,89,66,26,35,15,21,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=40&c=D
+25-40H,,109,85,39,15,33,18,32,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=40&c=H
+25-50D,,132,117,92,36,23,14,23,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=50&c=D
+25-60B,,152,145,131,51,16,9,19,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=60&c=B
+25-60D,,159,147,123,48,14,11,22,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=60&c=D
+25-65A,,165,161,152,59,13,7,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=65&c=A
+25-65B,,165,158,143,56,12,9,18,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=65&c=B
+25-70A,,177,173,164,64,9,7,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=70&c=A
+25-70B,,178,170,154,60,9,9,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=70&c=B
+25-70D,,185,172,145,56,7,10,21,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=70&c=D
+25-70L,,201,166,89,34,5,17,38,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=70&c=L
+25-75A,,192,188,178,70,6,6,14,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=75&c=A
+25-75B,,194,187,170,66,6,7,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=75&c=B
+25-75C,,195,184,161,63,6,8,18,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=75&c=C
+25-80A,,204,200,190,74,4,5,13,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=80&c=A
+25-80B,,206,199,184,72,4,6,14,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=80&c=B
+25-80C,,211,200,176,69,3,7,16,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=80&c=C
+25-80D,,214,199,168,65,3,8,18,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=80&c=D
+25-80H,,222,197,144,55,2,11,25,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=80&c=H
+25-85A,,217,212,200,78,2,5,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=85&c=A
+25-85B,,221,213,194,76,2,5,13,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=85&c=B
+25-85C,,223,213,190,74,1,6,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=85&c=C
+25-85V,,255,202,0,0,0,21,79,0,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=85&c=V
+25-90A,,232,228,215,84,1,3,9,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=90&c=A
+25-90B,,235,227,208,81,1,4,10,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=90&c=B
+25-90C,,237,225,200,78,1,5,12,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=90&c=C
+25-90D,,241,225,192,75,0,6,14,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=25&v=90&c=D
+27-40D,,103,92,67,26,36,11,24,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=40&c=D
+27-40H,,115,90,13,5,30,17,47,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=40&c=H
+27-50D,,131,119,93,36,24,12,24,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=50&c=D
+27-60D,,158,147,119,46,15,10,24,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=60&c=D
+27-70D,,182,171,141,55,8,8,23,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=70&c=D
+27-70L,,197,172,88,34,5,13,42,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=70&c=L
+27-80B,,210,204,185,72,3,5,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=80&c=B
+27-85B,,222,217,199,78,2,3,13,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=85&c=B
+27-90B,,232,227,208,81,1,3,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=90&c=B
+27-90P,,254,225,103,39,0,10,44,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=27&v=90&c=P
+29-40D,,102,92,59,23,36,9,29,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=40&c=D
+29-40H,,103,93,46,18,36,8,35,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=40&c=H
+29-50D,,124,117,91,36,26,8,26,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=50&c=D
+29-60D,,154,148,122,48,16,6,25,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=60&c=D
+29-60H,,157,146,89,34,15,8,38,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=60&c=H
+29-70B,,176,173,156,61,9,4,21,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=70&c=B
+29-80B,,207,203,183,71,4,3,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=80&c=B
+29-80H,,213,199,140,54,3,7,29,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=80&c=H
+29-85B,,220,215,195,76,2,4,14,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=85&c=B
+29-90B,,234,230,210,82,1,2,11,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=29&v=90&c=B
+32-40H,,104,96,37,14,35,6,42,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=40&c=H
+32-60D,,152,149,114,45,16,3,31,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=60&c=D
+32-60H,,152,150,97,38,16,2,39,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=60&c=H
+32-70H,,184,177,103,40,8,4,42,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=70&c=H
+32-80D,,203,201,168,65,4,2,23,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=80&c=D
+32-80H,,206,202,148,58,4,2,30,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=80&c=H
+32-90B,,227,230,204,79,1,0,15,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=90&c=B
+32-90D,,220,221,187,73,2,0,20,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=32&v=90&c=D
+35-40D,,90,93,71,28,40,0,27,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=40&c=D
+35-50D,,118,122,99,39,27,0,28,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=50&c=D
+35-60B,,145,148,134,52,18,0,23,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=60&c=B
+35-60D,,143,147,120,47,18,0,28,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=60&c=D
+35-70A,,174,175,165,65,10,0,20,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=70&c=A
+35-70B,,173,175,158,62,10,0,22,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=70&c=B
+35-70D,,173,175,147,57,10,0,27,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=70&c=D
+35-70H,,168,173,124,48,10,0,34,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=70&c=H
+35-75A,,188,190,181,71,6,0,17,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=75&c=A
+35-80A,,201,204,192,75,4,0,15,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=80&c=A
+35-80B,,199,203,182,71,4,0,19,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=80&c=B
+35-80D,,198,201,170,66,5,0,23,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=80&c=D
+35-80H,,198,206,147,57,4,0,31,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=80&c=H
+35-85A,,213,214,203,79,3,0,14,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=85&c=A
+35-85B,,214,216,195,76,2,0,17,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=85&c=B
+35-90A,,230,232,218,85,1,0,10,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=90&c=A
+35-90B,,223,227,206,81,1,0,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=90&c=B
+35-90D,,228,229,193,75,1,0,19,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=35&v=90&c=D
+37-30H,,69,78,35,14,48,0,33,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=30&c=H
+37-50D,,115,124,102,40,26,0,25,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=50&c=D
+37-60D,,138,151,126,49,17,0,23,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=60&c=D
+37-70H,,159,179,130,50,9,0,29,12,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=70&c=H
+37-80D,,193,206,176,68,4,0,19,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=80&c=D
+37-80H,,186,208,159,62,3,0,24,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=80&c=H
+37-90D,,218,232,202,79,1,0,13,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=37&v=90&c=D
+39-40H,,73,99,65,25,38,0,23,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=39&v=40&c=H
+39-60D,,136,152,131,51,16,0,19,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=39&v=60&c=D
+39-70H,,150,182,140,54,8,0,22,16,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=39&v=70&c=H
+39-80B,,194,205,189,74,4,0,13,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=39&v=80&c=B
+39-80D,,186,201,177,69,5,0,16,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=39&v=80&c=D
+39-80H,,172,206,161,63,4,0,19,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=39&v=80&c=H
+42-30H,,41,68,44,16,54,0,16,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=30&c=H
+42-40H,,61,97,71,24,38,0,20,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=40&c=H
+42-60H,,123,162,126,48,13,0,20,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=60&c=H
+42-70D,,154,181,160,60,9,0,15,16,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=70&c=D
+42-70H,,138,184,148,53,8,0,19,20,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=70&c=H
+42-80D,,179,205,182,70,4,0,13,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=80&c=D
+42-90D,,210,234,210,82,1,0,8,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=42&v=90&c=D
+45-40D,,77,96,84,30,39,0,16,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=40&c=D
+45-50D,,104,126,111,41,25,0,17,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=50&c=D
+45-60B,,138,151,142,54,17,0,14,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=60&c=B
+45-60D,,127,150,136,50,17,0,16,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=60&c=D
+45-60H,,106,154,127,41,16,0,21,22,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=60&c=H
+45-65A,,157,163,156,61,13,0,14,12,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=65&c=A
+45-70A,,170,177,171,67,9,0,12,12,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=70&c=A
+45-70B,,166,180,170,65,8,0,13,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=70&c=B
+45-70D,,150,176,160,58,10,0,15,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=70&c=D
+45-70H,,130,183,153,50,8,0,20,22,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=70&c=H
+45-75A,,180,188,181,70,7,0,11,12,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=75&c=A
+45-80A,,193,202,195,76,4,0,10,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=80&c=A
+45-80B,,191,205,194,75,4,0,10,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=80&c=B
+45-80D,,176,204,186,69,4,0,13,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=80&c=D
+45-80H,,155,210,177,60,3,0,18,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=80&c=H
+45-85A,,207,216,209,81,2,0,8,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=85&c=A
+45-85B,,204,221,208,79,2,0,9,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=85&c=B
+45-90A,,221,230,220,86,1,0,7,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=90&c=A
+45-90B,,215,231,216,84,1,0,7,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=90&c=B
+45-90D,,203,236,213,79,1,0,9,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=45&v=90&c=D
+49-40D,,77,98,89,30,38,0,16,16,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=49&v=40&c=D
+49-50D,,101,125,114,39,26,0,17,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=49&v=50&c=D
+49-70B,,161,176,168,63,9,0,13,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=49&v=70&c=B
+49-70H,,128,183,162,50,8,0,19,23,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=49&v=70&c=H
+49-80B,,182,207,196,71,4,0,11,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=49&v=80&c=B
+49-80H,,148,210,187,57,3,0,18,22,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=49&v=80&c=H
+52-60H,,97,160,144,38,14,0,22,26,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=52&v=60&c=H
+52-70D,,149,181,169,58,9,0,15,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=52&v=70&c=D
+52-70L,,99,192,167,38,6,0,26,30,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=52&v=70&c=L
+52-90D,,198,243,226,77,0,0,10,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=52&v=90&c=D
+55-40D,,73,99,95,29,37,0,15,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=40&c=D
+55-50D,,97,125,120,38,26,0,16,20,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=50&c=D
+55-60B,,134,150,146,52,17,0,14,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=60&c=B
+55-60D,,121,152,146,47,16,0,16,21,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=60&c=D
+55-70A,,173,181,177,68,8,0,11,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=70&c=A
+55-70B,,164,180,175,64,9,0,12,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=70&c=B
+55-70D,,152,183,175,59,8,0,14,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=70&c=D
+55-70H,,124,185,173,48,8,0,19,25,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=70&c=H
+55-75A,,181,188,185,71,7,0,10,12,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=75&c=A
+55-80A,,198,206,202,77,4,0,9,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=80&c=A
+55-80B,,187,205,199,73,4,0,10,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=80&c=B
+55-80D,,174,207,198,68,4,0,12,16,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=80&c=D
+55-80H,,141,210,195,55,3,0,18,24,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=80&c=H
+55-85A,,211,221,215,83,2,0,7,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=85&c=A
+55-85B,,204,221,214,80,2,0,8,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=85&c=B
+55-90A,,221,232,226,86,1,0,6,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=90&c=A
+55-90B,,214,235,226,83,1,0,7,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=90&c=B
+55-90D,,200,239,227,78,0,0,9,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=55&v=90&c=D
+57-30H,,29,88,84,11,43,0,21,25,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=57&v=30&c=H
+57-40H,,47,110,107,18,32,0,21,29,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=57&v=40&c=H
+57-70D,,148,181,176,58,8,0,14,20,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=57&v=70&c=D
+57-70H,,120,186,178,47,7,0,19,27,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=57&v=70&c=H
+57-80D,,172,215,208,67,2,0,13,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=57&v=80&c=D
+57-90D,,201,243,233,78,0,0,9,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=57&v=90&c=D
+59-30H,,0,76,77,0,49,0,0,51,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=59&v=30&c=H
+59-50D,,96,124,124,38,26,0,13,23,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=59&v=50&c=D
+59-60H,,90,157,157,35,15,0,18,32,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=59&v=60&c=H
+59-70L,,73,191,190,28,6,0,24,42,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=59&v=70&c=L
+59-80B,,184,210,206,72,3,0,10,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=59&v=80&c=B
+59-80D,,173,205,202,67,4,0,11,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=59&v=80&c=D
+62-30H,,29,88,92,11,41,0,9,39,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=62&v=30&c=H
+62-60D,,115,146,147,45,18,0,12,25,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=62&v=60&c=D
+62-60H,,92,155,160,36,14,0,13,37,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=62&v=60&c=H
+62-70H,,118,193,196,46,5,0,15,34,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=62&v=70&c=H
+62-80H,,144,210,212,56,3,0,13,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=62&v=80&c=H
+65-20D,,13,42,46,5,67,0,2,26,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=20&c=D
+65-20H,,0,58,70,0,53,0,0,47,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=20&c=H
+65-30D,,46,71,75,18,50,0,5,27,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=30&c=D
+65-40D,,70,98,102,27,36,0,8,29,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=40&c=D
+65-40H,,45,106,116,17,30,0,8,45,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=40&c=H
+65-50A,,114,119,118,45,28,0,12,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=50&c=A
+65-50B,,112,124,125,44,26,0,8,22,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=50&c=B
+65-50D,,99,126,131,38,24,0,8,30,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=50&c=D
+65-60A,,142,147,146,56,18,0,11,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=60&c=A
+65-60B,,138,150,151,54,17,0,8,21,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=60&c=B
+65-60D,,127,152,155,50,15,0,9,26,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=60&c=D
+65-70A,,165,173,172,65,10,0,10,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=70&c=A
+65-70B,,163,179,180,64,9,0,8,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=70&c=B
+65-70D,,151,178,181,59,8,0,9,24,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=70&c=D
+65-70H,,124,184,192,48,6,0,12,34,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=70&c=H
+65-70L,,86,188,201,33,5,0,14,48,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=70&c=L
+65-75A,,182,188,187,71,7,0,9,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=75&c=A
+65-80A,,197,206,204,77,4,0,8,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=80&c=A
+65-80B,,190,205,205,74,4,0,8,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=80&c=B
+65-80D,,175,203,204,68,4,0,9,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=80&c=D
+65-80H,,149,210,216,58,2,0,11,29,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=80&c=H
+65-85A,,211,220,217,82,2,0,7,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=85&c=A
+65-85B,,204,220,219,80,2,0,7,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=85&c=B
+65-90A,,224,232,228,88,1,0,5,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=90&c=A
+65-90B,,218,233,231,85,1,0,6,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=90&c=B
+65-90D,,203,232,231,79,1,0,7,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=65&v=90&c=D
+67-40H,,47,107,121,18,28,0,7,47,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=67&v=40&c=H
+67-70L,,101,188,207,39,3,0,12,46,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=67&v=70&c=L
+67-80H,,159,214,224,62,1,0,9,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=67&v=80&c=H
+69-20D,,0,38,44,0,68,0,0,32,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=20&c=D
+69-30P,,0,82,114,0,31,0,0,69,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=30&c=P
+69-40D,,77,95,104,30,35,0,5,30,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=40&c=D
+69-40T,,0,112,155,0,15,0,0,85,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=40&c=T
+69-50D,,100,121,129,39,24,0,6,31,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=50&c=D
+69-50H,,83,127,143,32,19,0,8,41,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=50&c=H
+69-50T,,0,137,183,0,8,0,0,92,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=50&c=T
+69-60H,,112,152,169,43,11,0,8,38,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=60&c=H
+69-60L,,89,160,188,34,7,0,9,50,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=60&c=L
+69-70F,,150,182,192,58,6,0,8,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=70&c=F
+69-70L,,106,183,210,41,3,0,10,46,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=70&c=L
+69-70P,,83,189,222,31,2,0,11,56,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=70&c=P
+69-80B,,195,203,203,76,4,0,7,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=80&c=B
+69-80D,,189,208,213,74,2,0,6,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=80&c=D
+69-80H,,163,206,220,63,2,0,8,27,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=69&v=80&c=H
+72-30H,,21,72,95,8,39,0,3,50,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=30&c=H
+72-40T,,0,107,159,0,14,0,0,86,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=40&c=T
+72-45T,,0,119,171,0,11,0,0,89,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=45&c=T
+72-50L,,68,128,160,26,14,0,7,53,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=50&c=L
+72-50P,,36,129,171,14,11,0,6,69,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=50&c=P
+72-60D,,135,149,158,53,14,0,5,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=60&c=D
+72-60H,,118,152,171,46,11,0,7,36,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=60&c=H
+72-70D,,162,178,186,63,7,0,6,24,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=70&c=D
+72-70L,,124,180,208,48,3,0,8,41,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=70&c=L
+72-80D,,188,203,210,73,3,0,5,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=80&c=D
+72-80H,,171,208,227,66,1,0,7,26,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=72&v=80&c=H
+75-20D,,19,37,51,7,64,0,1,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=20&c=D
+75-20L,,0,53,81,0,47,0,0,53,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=20&c=L
+75-30D,,53,67,80,21,47,0,2,30,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=30&c=D
+75-30H,,32,79,101,12,36,0,4,48,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=30&c=H
+75-40D,,85,95,108,33,33,0,3,31,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=40&c=D
+75-40H,,64,103,126,25,26,0,5,44,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=40&c=H
+75-50D,,112,123,134,44,22,0,4,30,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=50&c=D
+75-50H,,98,124,146,38,18,0,5,39,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=50&c=H
+75-60B,,142,148,153,56,16,0,4,24,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=60&c=B
+75-60D,,136,147,157,53,15,0,5,27,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=60&c=D
+75-70A,,174,176,177,68,9,0,5,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=70&c=A
+75-70B,,170,176,180,67,9,0,4,20,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=70&c=B
+75-70D,,161,173,184,63,8,0,4,25,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=70&c=D
+75-70L,,135,178,212,52,3,0,7,38,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=70&c=L
+75-75A,,189,191,191,74,6,0,7,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=75&c=A
+75-80A,,199,201,201,78,5,0,6,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=80&c=A
+75-80B,,199,205,209,78,3,0,4,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=80&c=B
+75-80D,,191,203,212,75,3,0,4,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=80&c=D
+75-80H,,183,208,228,71,1,0,5,23,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=80&c=H
+75-85A,,214,216,215,84,2,0,6,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=85&c=A
+75-85B,,212,219,221,83,2,0,4,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=85&c=B
+75-90A,,227,230,228,89,1,0,5,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=90&c=A
+75-90B,,222,229,230,87,1,0,3,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=90&c=B
+75-90D,,219,229,232,86,1,0,3,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=75&v=90&c=D
+77-30H,,41,74,101,16,36,0,3,45,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=77&v=30&c=H
+77-70D,,171,176,185,67,7,0,4,22,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=77&v=70&c=D
+77-70H,,160,175,199,62,5,0,5,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=77&v=70&c=H
+79-70L,,165,172,209,64,3,0,4,29,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=79&v=70&c=L
+82-20H,,29,45,73,11,51,0,1,37,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=82&v=20&c=H
+82-50D,,117,121,133,46,23,0,3,28,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=82&v=50&c=D
+82-50H,,122,118,145,46,19,6,3,26,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=82&v=50&c=H
+82-60H,,138,148,173,54,10,0,4,32,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=82&v=60&c=H
+82-70H,,176,173,200,67,5,4,3,21,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=82&v=70&c=H
+82-80D,,192,203,210,75,3,0,4,18,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=82&v=80&c=D
+85-20D,,40,31,49,12,65,14,0,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=20&c=D
+85-30D,,71,61,75,24,50,19,1,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=30&c=D
+85-30H,,74,56,86,22,44,23,1,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=30&c=H
+85-40D,,97,90,105,35,35,16,1,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=40&c=D
+85-50D,,123,117,129,46,24,16,2,12,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=50&c=D
+85-60B,,148,144,151,56,17,15,2,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=60&c=B
+85-60D,,148,144,157,56,15,10,2,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=60&c=D
+85-60H,,150,141,165,55,13,13,2,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=60&c=H
+85-70A,,173,172,173,67,10,18,2,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=70&c=A
+85-70B,,177,174,178,68,9,15,2,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=70&c=B
+85-70D,,176,171,180,67,9,13,2,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=70&c=D
+85-70H,,177,168,190,66,6,12,2,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=70&c=H
+85-70L,,182,166,204,65,4,13,3,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=70&c=L
+85-75A,,186,185,186,73,7,16,1,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=75&c=A
+85-80A,,201,201,201,79,21,0,0,0,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=80&c=A
+85-80B,,201,201,204,79,4,0,2,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=80&c=B
+85-80D,,200,197,204,77,4,8,2,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=80&c=D
+85-80H,,207,198,218,77,2,9,2,10,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=80&c=H
+85-85A,,218,217,216,85,2,5,5,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=85&c=A
+85-85B,,219,218,220,85,2,6,1,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=85&c=B
+85-90A,,231,230,229,90,1,3,4,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=90&c=A
+85-90B,,231,230,230,90,1,6,1,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=90&c=B
+85-90D,,234,231,234,90,1,7,1,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=85&v=90&c=D
+87-30H,,80,54,86,21,44,29,1,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=30&c=H
+87-40H,,109,85,112,33,32,29,1,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=40&c=H
+87-50D,,123,118,126,46,26,17,2,9,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=50&c=D
+87-60H,,161,140,162,55,13,26,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=60&c=H
+87-70D,,172,172,179,67,9,0,3,21,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=70&c=D
+87-70H,,176,167,187,65,7,13,2,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=70&c=H
+87-80D,,196,198,203,77,4,0,3,16,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=87&v=80&c=D
+89-30H,,84,54,79,21,45,31,1,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=89&v=30&c=H
+89-70H,,194,167,185,65,6,23,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=89&v=70&c=H
+92-20H,,55,32,51,12,62,25,0,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=92&v=20&c=H
+92-50H,,134,110,124,43,23,29,2,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=92&v=50&c=H
+92-70L,,196,154,181,60,5,28,3,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=92&v=70&c=L
+92-80D,,200,198,199,78,5,13,1,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=92&v=80&c=D
+92-80H,,220,191,204,74,2,18,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=92&v=80&c=H
+95-20D,,48,30,42,12,66,21,0,1,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=20&c=D
+95-30D,,83,60,68,23,46,28,1,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=30&c=D
+95-30H,,92,52,71,20,41,36,1,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=30&c=H
+95-40D,,108,87,93,34,33,28,2,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=40&c=D
+95-50D,,132,113,118,44,23,27,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=50&c=D
+95-50H,,145,108,120,42,19,33,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=50&c=H
+95-60B,,153,144,146,56,16,22,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=60&c=B
+95-60D,,162,143,148,56,13,25,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=60&c=D
+95-70A,,179,174,174,68,9,17,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=70&c=A
+95-70B,,181,174,175,68,8,18,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=70&c=B
+95-70D,,186,170,174,67,7,20,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=70&c=D
+95-70H,,198,161,172,63,5,25,2,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=70&c=H
+95-70L,,216,160,178,62,2,28,3,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=70&c=L
+95-75A,,189,184,183,72,7,13,4,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=75&c=A
+95-80A,,208,203,203,80,3,12,2,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=80&c=A
+95-80B,,205,197,198,77,4,14,2,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=80&c=B
+95-80D,,212,197,199,77,3,15,2,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=80&c=D
+95-85A,,218,215,214,84,2,7,4,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=85&c=A
+95-85B,,221,214,213,83,2,9,3,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=85&c=B
+95-90A,,234,229,226,88,1,5,4,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=90&c=A
+95-90B,,233,226,225,88,1,7,2,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=90&c=B
+95-90D,,240,223,226,87,0,9,1,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=95&v=90&c=D
+99-40H,,125,81,88,31,26,37,2,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=99&v=40&c=H
+99-60H,,179,136,142,53,9,30,3,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=99&v=60&c=H
+99-70D,,188,167,169,65,7,21,3,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=99&v=70&c=D
+99-70H,,206,162,167,63,4,25,3,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=99&v=70&c=H
+99-70L,,222,156,164,60,2,29,3,6,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=99&v=70&c=L
+99-80B,,208,199,197,77,3,12,4,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=99&v=80&c=B
+N-10,,10,12,15,4,89,0,0,7,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=10&c=
+N-15,,35,36,38,14,72,0,1,13,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=15&c=
+N-20,,45,45,47,18,66,0,1,15,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=20&c=
+N-25,,55,56,56,22,61,0,6,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=25&c=
+N-30,,63,66,68,25,54,0,2,19,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=30&c=
+N-35,,75,77,79,29,48,0,2,21,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=35&c=
+N-40,,86,89,90,34,42,0,4,20,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=40&c=
+N-45,,99,102,103,39,36,0,4,21,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=45&c=
+N-50,,114,117,117,45,29,0,9,17,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=50&c=
+N-55,,130,132,131,51,23,0,12,14,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=55&c=
+N-60,,143,144,142,56,19,0,17,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=60&c=
+N-65,,154,154,152,60,16,0,20,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=65&c=
+N-67,,162,163,161,63,13,0,16,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=67&c=
+N-70,,169,170,168,66,11,0,15,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=70&c=
+N-72,,176,177,175,69,9,0,14,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=72&c=
+N-75,,183,185,183,72,7,0,10,11,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=75&c=
+N-77,,191,193,190,74,6,0,12,8,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=77&c=
+N-80,,200,201,197,77,5,0,13,5,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=80&c=
+N-82,,208,208,204,80,3,0,13,4,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=82&c=
+N-85,,215,215,210,82,3,0,12,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=85&c=
+N-87,,223,222,216,85,2,1,9,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=87&c=
+N-90,,230,228,220,86,1,2,8,3,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=90&c=
+N-93,,238,237,230,90,0,1,7,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=93&c=
+N-95,,245,247,242,95,0,0,3,2,https://s1.toryo.or.jp/cgi-bin/SPCSS-m/search/search2.cgi?h=N&v=95&c=

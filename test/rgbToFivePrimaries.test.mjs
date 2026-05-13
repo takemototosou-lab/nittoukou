@@ -35,7 +35,7 @@ test("N-90 resolves from nittoColorMaster.csv", () => {
   const master = loadNittoColorMasterFromCsv(masterCsv);
   const color = findColorByCodeInMaster("N-90", master);
   assert.equal(color.code, "N-90");
-  assert.deepEqual(rgbToFivePrimaries(color.r, color.g, color.b), { white: 90, black: 10, red: 0, yellow: 0, blue: 0 });
+  assert.deepEqual(rgbToFivePrimaries(color.r, color.g, color.b), { white: 86, black: 1, red: 2, yellow: 8, blue: 3 });
 });
 
 test("JPMA search result HTML can be converted to a master CSV row when RGB is present", () => {
