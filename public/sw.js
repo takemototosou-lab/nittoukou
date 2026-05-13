@@ -1,10 +1,12 @@
 const CACHE_NAME = "jpma-color-ai-v1";
+const APP_BASE = new URL(self.registration.scope).pathname;
+const withBase = (path = "") => `${APP_BASE}${path}`.replace(/\/{2,}/g, "/");
 const APP_SHELL = [
-  "/",
-  "/manifest.json",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/icon.svg",
+  withBase(),
+  withBase("manifest.json"),
+  withBase("icons/icon-192.png"),
+  withBase("icons/icon-512.png"),
+  withBase("icons/icon.svg"),
 ];
 
 self.addEventListener("install", (event) => {
@@ -37,10 +39,10 @@ self.addEventListener("fetch", (event) => {
       fetch(request)
         .then((response) => {
           const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put("/", copy));
+          caches.open(CACHE_NAME).then((cache) => cache.put(withBase(), copy));
           return response;
         })
-        .catch(() => caches.match("/").then((cached) => cached || caches.match("/index.html"))),
+        .catch(() => caches.match(withBase()).then((cached) => cached || caches.match(withBase("index.html")))),
     );
     return;
   }

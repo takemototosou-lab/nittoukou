@@ -2,6 +2,10 @@
 
 塗装職人向けの調色スタート比率AI。
 
+## 公開URL
+
+https://takemototosou-lab.github.io/nittoukou/
+
 ## 目的
 
 完全一致調色ではなく、

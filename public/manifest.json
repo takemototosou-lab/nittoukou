@@ -2,27 +2,27 @@
   "name": "日塗工 調色補助AI",
   "short_name": "調色補助AI",
   "description": "日塗工番号からAI比率と職人補正を確認する調色補助アプリ",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/nittoukou/",
+  "scope": "/nittoukou/",
   "display": "standalone",
   "background_color": "#fffdf8",
   "theme_color": "#275e55",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "/nittoukou/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "/nittoukou/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icons/icon.svg",
+      "src": "/nittoukou/icons/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
