@@ -20,6 +20,7 @@ const ratioRows = [
   { key: "blue", label: "青" },
 ];
 
+const quickAmounts = [100, 250, 500, 1000, 4000];
 const emptyRatio = { white: 0, black: 0, red: 0, yellow: 0, blue: 0 };
 
 function readCorrections() {
@@ -182,6 +183,18 @@ function App() {
                 aria-describedby="total-grams-help"
               />
               <span>g</span>
+            </div>
+            <div className="quickAmountRow" aria-label="よく使う総量">
+              {quickAmounts.map((amount) => (
+                <button
+                  className={Number(totalGrams) === amount ? "quickAmountButton active" : "quickAmountButton"}
+                  key={amount}
+                  type="button"
+                  onClick={() => setTotalGrams(String(amount))}
+                >
+                  {amount}g
+                </button>
+              ))}
             </div>
             <p className="helpText" id="total-grams-help">入力した総量でAI比率と補正済み比率をg換算します。</p>
 
