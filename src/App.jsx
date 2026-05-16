@@ -1,6 +1,13 @@
 import { useMemo, useState } from "react";
 import { RotateCcw } from "lucide-react";
-import { createArtisanCorrection, normalizeFivePrimaryRatio, PRIMARY_KEYS } from "./artisanCorrection.js";
+import {
+  createArtisanCorrection,
+  formatGrams,
+  normalizeFivePrimaryRatio,
+  parseTotalGrams,
+  PRIMARY_KEYS,
+  ratioToGrams,
+} from "./artisanCorrection.js";
 import { findColorByCode, rgbToFivePrimaries } from "./nittoColorMaster.js";
 
 const STORAGE_KEY = "jpma-artisan-corrections:v1";
@@ -42,8 +49,18 @@ function ratioFromCorrection(correction) {
   return normalizeFivePrimaryRatio(correction);
 }
 
+function RatioAmount({ percent, grams, strong = false }) {
+  return (
+    <div className={strong ? "amountBlock strong" : "amountBlock"}>
+      <span className="percentValue">{percent}%</span>
+      <span className="gramValue">{formatGrams(grams)}g</span>
+    </div>
+  );
+}
+
 function App() {
   const [input, setInput] = useState("22-75B");
+  const [totalGrams, setTotalGrams] = useState("100");
   const [color, setColor] = useState(null);
   const [aiRatio, setAiRatio] = useState(null);
   const [correctionForm, setCorrectionForm] = useState(emptyRatio);
@@ -59,6 +76,9 @@ function App() {
 
   const aiTotal = useMemo(() => ratioTotal(aiRatio), [aiRatio]);
   const correctedTotal = useMemo(() => ratioTotal(correctedRatio), [correctedRatio]);
+  const parsedTotalGrams = useMemo(() => parseTotalGrams(totalGrams), [totalGrams]);
+  const aiGrams = useMemo(() => ratioToGrams(aiRatio, parsedTotalGrams), [aiRatio, parsedTotalGrams]);
+  const correctedGrams = useMemo(() => ratioToGrams(correctedRatio, parsedTotalGrams), [correctedRatio, parsedTotalGrams]);
 
   function loadColor(foundColor) {
     const nextAiRatio = rgbToFivePrimaries(foundColor.r, foundColor.g, foundColor.b);
@@ -151,22 +171,36 @@ function App() {
               <div><span>補正更新</span><strong>{savedCorrection?.updatedAt ? new Date(savedCorrection.updatedAt).toLocaleString("ja-JP") : "未保存"}</strong></div>
             </div>
 
+            <label className="inputLabel" htmlFor="total-grams-input">総量g</label>
+            <div className="gramsInputRow">
+              <input
+                id="total-grams-input"
+                value={totalGrams}
+                onChange={(event) => setTotalGrams(event.target.value)}
+                inputMode="decimal"
+                placeholder="100"
+                aria-describedby="total-grams-help"
+              />
+              <span>g</span>
+            </div>
+            <p className="helpText" id="total-grams-help">入力した総量でAI比率と補正済み比率をg換算します。</p>
+
             <table className="ratioTable">
               <thead>
                 <tr>
                   <th>原色</th>
-                  <th>AI比率</th>
-                  <th>補正入力</th>
+                  <th>AI</th>
+                  <th>補正%</th>
                   <th>補正済み</th>
                 </tr>
               </thead>
               <tbody>
                 {ratioRows.map((row) => (
                   <tr key={row.key}>
-                    <td>{row.label}</td>
+                    <td data-label="原色">{row.label}</td>
                     <td>
                       <div className="ratioCell">
-                        <span>{aiRatio[row.key]}%</span>
+                        <RatioAmount percent={aiRatio[row.key]} grams={aiGrams[row.key]} />
                         <meter min="0" max="100" value={aiRatio[row.key]} />
                       </div>
                     </td>
@@ -181,9 +215,9 @@ function App() {
                         aria-label={`${row.label}の補正値`}
                       />
                     </td>
-                    <td>
+                    <td className="correctedCell">
                       <div className="ratioCell compact">
-                        <span>{correctedRatio[row.key]}%</span>
+                        <RatioAmount percent={correctedRatio[row.key]} grams={correctedGrams[row.key]} strong />
                         <meter min="0" max="100" value={correctedRatio[row.key]} />
                       </div>
                     </td>
@@ -193,9 +227,9 @@ function App() {
               <tfoot>
                 <tr>
                   <td>合計</td>
-                  <td>{aiTotal}%</td>
+                  <td>{aiTotal}% / {formatGrams(parsedTotalGrams)}g</td>
                   <td>{ratioTotal(correctionForm)}%</td>
-                  <td>{correctedTotal}%</td>
+                  <td>{correctedTotal}% / {formatGrams(parsedTotalGrams)}g</td>
                 </tr>
               </tfoot>
             </table>

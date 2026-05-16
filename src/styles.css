@@ -63,6 +63,7 @@ button { min-height: 46px; border: 0; border-radius: 8px; cursor: pointer; font-
 .primaryButton { width: 100%; background: #275e55; color: #fff; }
 .errorText { margin: 12px 0 0; color: #b42318; font-size: .92rem; }
 .saveText { margin: 10px 0 0; color: #275e55; font-size: .92rem; font-weight: 700; }
+.helpText { margin: 6px 0 12px; color: #6c665d; font-size: .82rem; line-height: 1.5; }
 .resultBlock { margin-top: 18px; }
 
 .resultSummary {
@@ -83,6 +84,17 @@ button { min-height: 46px; border: 0; border-radius: 8px; cursor: pointer; font-
 .resultSummary span { display: block; margin-bottom: 5px; color: #6c665d; font-size: .78rem; font-weight: 700; }
 .resultSummary strong { font-size: 1.12rem; overflow-wrap: anywhere; }
 
+.gramsInputRow {
+  display: grid;
+  grid-template-columns: 1fr 34px;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.gramsInputRow input { text-align: right; }
+.gramsInputRow span { color: #4d564f; font-weight: 800; }
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -99,8 +111,21 @@ tr:last-child td { border-bottom: 0; }
 .ratioTable th:first-child,
 .ratioTable td:first-child { width: 46px; font-weight: 700; }
 .ratioTable tfoot td { background: #f9f6ee; font-weight: 700; }
-.ratioCell { display: grid; grid-template-columns: 42px 1fr; gap: 8px; align-items: center; }
-.ratioCell.compact { grid-template-columns: 42px minmax(42px, 1fr); }
+.ratioCell { display: grid; grid-template-columns: minmax(56px, auto) 1fr; gap: 8px; align-items: center; }
+.ratioCell.compact { grid-template-columns: minmax(56px, auto) minmax(42px, 1fr); }
+.amountBlock {
+  display: grid;
+  gap: 2px;
+  min-width: 56px;
+}
+.percentValue { font-weight: 800; }
+.gramValue { color: #6c665d; font-size: .78rem; font-weight: 700; }
+.amountBlock.strong .percentValue,
+.amountBlock.strong .gramValue { color: #17493f; }
+.correctedCell {
+  background: #eef7f2;
+  box-shadow: inset 4px 0 0 #2f6f64;
+}
 .ratioInput {
   min-height: 38px;
   padding: 0 8px;
@@ -113,7 +138,91 @@ meter { width: 100%; height: 12px; }
 @media (max-width: 380px) {
   .toolPanel { padding: 18px; }
   .resultSummary { grid-template-columns: 1fr; }
-  th, td { padding: 10px 8px; }
+}
+
+@media (max-width: 520px) {
+  .appShell { padding: 10px; }
+  .toolPanel {
+    padding: 16px;
+    box-shadow: none;
+  }
+  .headerBlock { margin-bottom: 16px; }
+  h1 { font-size: 1.35rem; }
+  .resultSummary {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .resultSummary div {
+    min-height: 56px;
+    padding: 9px 10px;
+  }
+  .resultSummary strong { font-size: 1rem; }
+  .ratioTable,
+  .ratioTable thead,
+  .ratioTable tbody,
+  .ratioTable tfoot,
+  .ratioTable tr,
+  .ratioTable th,
+  .ratioTable td {
+    display: block;
+  }
+  .ratioTable {
+    border: 0;
+    background: transparent;
+  }
+  .ratioTable thead { display: none; }
+  .ratioTable tbody tr {
+    margin-bottom: 10px;
+    border: 1px solid #ded8cd;
+    border-radius: 8px;
+    background: #fff;
+    overflow: hidden;
+  }
+  .ratioTable td {
+    display: grid;
+    grid-template-columns: 74px 1fr;
+    gap: 10px;
+    align-items: center;
+    padding: 10px 12px;
+  }
+  .ratioTable td::before {
+    color: #6c665d;
+    content: attr(data-label);
+    font-size: .78rem;
+    font-weight: 800;
+  }
+  .ratioTable td:first-child {
+    width: auto;
+    grid-template-columns: 1fr;
+    background: #ece7dc;
+    font-size: 1.1rem;
+  }
+  .ratioTable td:first-child::before { content: none; }
+  .ratioTable tbody td:nth-child(2)::before { content: "AI"; }
+  .ratioTable tbody td:nth-child(3)::before { content: "補正%"; }
+  .ratioTable tbody td:nth-child(4)::before { content: "補正済み"; }
+  .ratioTable tfoot tr {
+    border: 1px solid #ded8cd;
+    border-radius: 8px;
+    background: #f9f6ee;
+    overflow: hidden;
+  }
+  .ratioTable tfoot td {
+    display: grid;
+    grid-template-columns: 74px 1fr;
+    padding: 10px 12px;
+  }
+  .ratioTable tfoot td:first-child {
+    grid-template-columns: 1fr;
+    background: #ece7dc;
+  }
+  .ratioTable tfoot td:nth-child(2)::before { content: "AI"; }
+  .ratioTable tfoot td:nth-child(3)::before { content: "入力"; }
+  .ratioTable tfoot td:nth-child(4)::before { content: "補正済み"; }
   .ratioCell,
-  .ratioCell.compact { grid-template-columns: 1fr; gap: 4px; }
+  .ratioCell.compact { grid-template-columns: minmax(64px, auto) 1fr; }
+  .ratioInput {
+    max-width: 120px;
+    justify-self: end;
+  }
 }

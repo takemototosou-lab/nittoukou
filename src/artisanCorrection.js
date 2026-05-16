@@ -45,3 +45,22 @@ export function createArtisanCorrection(code, values, memo = "", updatedAt = new
     updatedAt,
   };
 }
+
+export function parseTotalGrams(value) {
+  const grams = Number(value);
+  return Number.isFinite(grams) && grams > 0 ? grams : 0;
+}
+
+export function ratioToGrams(ratio, totalGrams) {
+  const grams = parseTotalGrams(totalGrams);
+  return PRIMARY_KEYS.reduce((result, key) => {
+    result[key] = ((Number(ratio?.[key] || 0) * grams) / 100);
+    return result;
+  }, {});
+}
+
+export function formatGrams(value) {
+  const grams = Number(value);
+  if (!Number.isFinite(grams)) return "0";
+  return grams.toFixed(1).replace(/\.0$/, "");
+}
